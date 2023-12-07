@@ -1,0 +1,119 @@
+&c: # MORGAN STANLEY Revolutionizes Asset Management by becoming Open AI Largest Customer
+
+<b> ## Overview and Origin
+
+Morgan Stanley is an American multinational investment bank and financial services company headquartered at 1585 Broadway in Midtown Manhattan, New York City. With offices in 41 countries and more than 75,000 employees, the firm’s clients include corporations, governments, institutions, and individuals. <a href="www.morganstanley.com">
+
+The Wealth Management field was one of the first to embrace Generative AI in the birth of ChatGPT. The audience is currently designed for Financial Advisor’s internal use as well as client facing automated response system. The product is designed to provide timely and personalized solutions to questions it is asked based on the database it is purview to. The company’s application of the program was piloted last year and launched less than a year ago therefore business metrics are still being gathered and cleaned for review. 
+
+<b> ## Business Activities
+
+Morgan Stanley (MS) was the first of the major financial institutions to embrace Generative AI and is currently one of OpenAI’s biggest customers <a href="https://www.theinformation.com/articles/inside-morgan-stanleys-openai-push">. The company anticipates the application of Generative AI to transform the manner in which businesses, specifically Asset Management, by 30%-40% in productivity and efficiencies in the next 5 years <a href="https://www.youtube.com/watch?v=EEp6YWkvm48">. 
+
+“Starting last year, the company began exploring how to harness its intellectual capital with GPT’s embeddings and retrieval capabilities—first GPT-3 and now GPT-4. The model will power an internal facing chatbot that performs a comprehensive search of wealth management content and “effectively unlocks the cumulative knowledge of Morgan Stanley Wealth Management,” says Jeff McMillan, Head of Analytics, Data & Innovation, whose team is leading the initiative. GPT-4, his project lead notes, has finally put the ability to parse all that insight into a far more usable and actionable format” <a href="https://www.youtube.com/watch?v=EEp6YWkvm48">.  According to industry experts Steven Berg, Global Head of Sustainability Research at MS and Seth Carpenter, Global Chief Economist at MS shared that the solution will be two-fold: 1) increase productivity in current workforce 2) in driving efficiencies within the administrative tasks that are time consuming, which would clear up more time for Financial Advisors to manage client relationships and bring in new assets <a href="https://www.youtube.com/watch?v=948M1WYILrM">.  
+
+<blockquote> “Global spending on artificial intelligence is expected to reach $166 billion in 2023 (with banking one of the largest contributors by industry at about 13%), rising to about $450 billion by 2027, according to a report by International Data Corp. (IDC), a provider of technology market intelligence and advisory services” <a href="https://www.spglobal.com/en/research-insights/featured/special-editorial/ai-in-banking-ai-will-be-an-incremental-game-changer#:~:text=Global%20spending%20on%20artificial%20intelligence,market%20intelligence%20and%20advisory%20services">. As for the future of this implication, Andy Saperstein, Morgan Stanley's co-president and head of wealth management said, “the bot will give insights and administrative support to financial advisers, investment advice will remain in the purview of humans”. Another industry expert, Cucchiara said, "The adviser is still at the center," 
+<a href="https://www.reuters.com/technology/morgan-stanley-launch-ai-chatbot-woo-wealthy-2023-09-07/">. To echo that sentiment, Head of Sustainability Research at MS and Seth Carpenter, Global Chief Economist at MS shared that the vision for upcoming talent sourcing will likely fall away from credentials and more on soft skills, qualities that will be more difficult for Ai to replace. Things like creativity skills, human interaction, and negotiation. From a different angle, James Gormon, former CEO of Morgan Stanley reported on December 6th on CNBC that advances in AI will be a real strategic weapon to stop bad actors from banking. <a href="https://www.youtube.com/watch?v=LW99KBY2Olw">.
+
+
+<b> ## Landscape
+
+<p style=font-family:Arial;"> * What field is the company in? Finance, Wealth Management
+
+<p style=font-family:Arial;">* What have been the major trends and innovations of this field over the last 5&ndash;10 years? Banking industry has generally remained stagnant and is slow in adoption due to cybersecurity reasons. The biggest innovations in the last 5-10 years will mirror the most impactful ones in society like cloud, data compressions, internet, wireless, hardware updates...to name a few.
+
+<p style=font-family:Arial;">* What are the other major companies in this field? Goldman Sachs, Blackstone, Blackrock, JP Morgan. 
+
+<p style=font-family:Arial;"><b> ## Results
+
+* What has been the business impact of this company so far? It is one the largest financial giants in the game. 
+
+* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? The core key performance index for Morgan Stanley's Asset Wealth Management will always be assets under management. There are softer touch points that certainly contribute towards the overarching goal as well but they pale in comparisson when it comes to priorities.
+
+* How is your company performing relative to competitors in the same field?  Morgan Stanley is top 3 in investment banking and wealth management in the field defined by assets under management. 
+
+<b> ## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? 1) Secure:  I would suggest using AI to penetrate their own system. AI risk is high and implementation of any new technology comes with risk, the risk with cybersecurity in finance is that any single breach can compromise the entire firm and lose the trust of the public. As for products and services, i believe there are plenty existing tailored ones and added opportunity for customizeable ones on a need basis. 2) Jobs: for the more administrative tasks that could be obsolete with Generative AI, i would recommend retraining those colleagues. 
+
+* * What technologies would this additional product or service utilize and Why do you think that offering this product or service would benefit the company? I believe this will help trim down the workforce so that they are more streanlined, defined, and focus on the ultimate goal, while simultaneously complimenting the existing skills in the firm. 
+
+* Why are these technologies appropriate for your solution? Because Generative AI is the only current technology capable of completing such task. 
+
+* * Morgan Stanley expects Generative AI to impact the quality of life and standard operations of daily life. That said, it will inherently affect the manner in which businesses operate as well. In addition to providing much opportunity for structural changes in organizations and increased productivity, it will also come with its own challenges and threats. For example, the Firm will need to anticipate retraining a lot of existing staff members and see how certain roles/ duties might become obsolete, thereby redefining structures that are in place. The change comes with a lot of ambiguity because the conversation around Generative AI is currently based on its potential and models. While the speed of development is fast, the speculated scope of what how this will affect businesses specifically, Morgan Stanley, remains unclear. 
+
+
+
+
+<b> Sources
+<a href="www.morganstanley.com">
+<a href="https://www.youtube.com/watch?v=LW99KBY2Olw">
+<a href="https://www.youtube.com/watch?v=948M1WYILrM">
+<a href="https://www.youtube.com/watch?v=EEp6YWkvm48">
+<a href="https://www.theinformation.com/articles/inside-morgan-stanleys-openai-push">
+<a href="https://www.spglobal.com/en/research-insights/featured/special-editorial/ai-in-banking-ai-will-be-an-incremental-game-changer#:~:text=Global%20spending%20on%20artificial%20intelligence,market%20intelligence%20and%20advisory%20services">
+<a href="https://www.reuters.com/technology/morgan-stanley-launch-ai-chatbot-woo-wealthy-2023-09-07/">
+<a href="https://www.spglobal.com/en/research-insights/featured/special-editorial/ai-in-banking-ai-will-be-an-incremental-game-changer#:~:text=Global%20spending%20on%20artificial%20intelligence,market%20intelligence%20and%20advisory%20services">
+
+
+<b> NOTES & RESEARCH
+
+•	Called the AI @ Morgan Stanley Assistant, the tool gives financial advisors speedy access to a database of about 100,000 research reports and documents. (https://www.cnbc.com/2023/09/18/morgan-stanley-chatgpt-financial-advisors.html#:~:text=Called%20the%20AI%20%40%20Morgan%20Stanley,100%2C000%20research%20reports%20and%20documents). 
+
+•	Revolutionary technologies have the power to create new economic activity and entirely new professions, and natural-language chatbots that use AI to create text, images, code and audio with human-like fluency are expected to be especially transformative. (How Generative AI Could Reshape Work | Morgan Stanley)
+
+•	Phone sales: But Goldman said momentum will rebuild in 2024 and 2025, fueled by new product launches. It forecasts worldwide smartphone shipments rising 3% to 1.186 billion in 2024, then climbing another 5% to 1.209 billion in 2025. (Smartphone sales to rebound on AI gains, Morgan Stanley says | TechCrunch)
+
+•	Inside Morgan Stanley’s OpenAI Push
+More financial advisers are using OpenAI-powered chatbot after Altman drama, but some say it's easier to pick up the phone and ask.
+Executives at Morgan Stanley, one of OpenAI’s biggest customers, wondered what would happen to their chatbot for financial advisers if OpenAI fell apart. They discussed what they might do if Altman wasn’t reinstated as CEO and OpenAI employees left in droves, a person familiar with the matter said, though they didn’t lay out formal plans. There were no easy solutions. 
+Dec 4 articles human (Inside Morgan Stanley’s OpenAI Push — The Information)
+
+•	MS PODCAST: GEN AI
+Steven berg - global head of sustain. Research
+Seth Carpenter- Global chief economist, 
+Investors are questioning whether a new U.S. Speaker in the House of Generative AI could transform the nature of work and boost productivity, but companies and governments will need to invest in reskilling.
+gen AI phenomenon 
+Lots more work with same ppl/ less ppl can do same work
+MAGNITUDE AND CADENCE IS NOT CLEAR
+GEN AI can change nature of work (speculation)- 
+Creativity skills/ human interaction/ negotiation—skills > credentials especially when we think of retraining a bunch of workers. Hiring manager to prioritize soft skills that are more difficult for AI models to replace!!! (What Generative I Means for the Labor Market - YouTube)
+
+
+•	Glossary:
+o	ChatGPT: AI chatbot, Chat Generative Pre-Trained Transformer, using natural language processing, a neural network machine learning model and transformer to pull from significant data to predict a text response.
+o	Narrow / Weak AI: AI we typically experience in our day-to-day lives performing a single task or a set of closely related tasks, e.g., weather apps, digital assistants.7
+o	General / Strong AI: where sentient machines emulate human intelligence, thinking strategically, abstractly and creatively, with the ability to handle complex tasks.8
+o	Generative AI: describes algorithms (such as ChatGPT) that can be used to create new content, i.e., code, images etc.9
+o	Large Language Models (LLMs): a deep learning model trained on a vast volume of datasets that understands and performs tasks in a human-like fashion.10
+o	Machine Learning (ML): a way of developing AI through models that can “learn” from data patterns without human direction i.e., Large Language Models (LLMs).11
+o	Natural Language Processing (NLP): a branch of AI within computer science that focuses on helping computers to understand the way that humans write and speak.12
+(Generative AI: Compounding Through the Hype | Morgan Stanley)
+
+•	Morgan Stanley plans to announce that an assistant it created with OpenAI’s latest software is “fully live” for financial advisors and their support staff.
+Called the AI @ Morgan Stanley Assistant, the tool gives financial advisors speedy access to a database of about 100,000 research reports and documents.
+One adjustment for advisors is that they’ll need to phrase questions in full sentences as though they were speaking to a human assistant, instead of leaning on keywords.
+(Morgan Stanley uses ChatGPT to help financial advisors (cnbc.com))
+
+•	You essentially have the knowledge of the most knowledgeable person in Wealth Management—instantly. We believe that is a transformative capability for our company. Jeff McMillan, Head of Analytics, Data & Innovation for Morgan Stanley Wealth Management. With the help of OpenAI’s GPT-4, Morgan Stanley is changing how its wealth management personnel locate relevant information.
+Starting last year, the company began exploring how to harness its intellectual capital with GPT’s embeddings and retrieval capabilities—first GPT-3 and now GPT-4. The model will power an internal-facing chatbot that performs a comprehensive search of wealth management content and “effectively unlocks the cumulative knowledge of Morgan Stanley Wealth Management,” says Jeff McMillan, Head of Analytics, Data & Innovation, whose team is leading the initiative. GPT-4, his project lead notes, has finally put the ability to parse all that insight into a far more usable and actionable format.
+1.knowledge of smartest person in WM
+2. library of internal content repository
+3.  MS people (FAs)
+(OpenAI customer story: Morgan Stanley)
+
+•	Andy Saperstein, Morgan Stanley's co-president and head of wealth management, then flew to California to discuss a partnership with OpenAI CEO Sam Altman and Boris Power, a technical staff member at the company.
+While the bot will give insights and administrative support to financial advisers, investment advice will remain in the purview of humans.
+"The adviser is still at the center," said Cucchiara. For now, employees view the technology as a helpful tool and aren't worried that they'll be replaced by bots, he said.
+(Morgan Stanley to launch AI chatbot to woo wealthy | Reuters)
+
+
+•	James Gormon, former CEO, 2.57M CNBC TV,
+Morgan Stanley CEO: Advances in AI will be a real strategic weapon to stop bad actors from banking DEC 6, 2023
+(Morgan Stanley CEO: Advances in AI will be a real strategic weapon to stop bad actors from banking - YouTube)
+
+•	Reduce administrative tasks; service more clients to result in more productivity. Collecting information, next best action, 30-40% in wealth sleeve efficiency play. (Global Tech: Generative AI and Asset Management - YouTube
+
+•	“Global spending on artificial intelligence is expected to reach $166 billion in 2023 (with banking one of the largest contributors by industry at about 13%), rising to about $450 billion by 2027, according to a report by International Data Corp. (IDC), a provider of technology market intelligence and advisory services” (6). 
+AI in Banking: AI Will Be An Incremental Game Changer | S&P Global (spglobal.com)
+
